@@ -1,0 +1,1 @@
+Drone Academy 3.3: RTH vliegt geleidelijk terug; landingscamera 90 graden; LANDEN activeert gecontroleerde daling met S; grote H-mat; routes brug/molen/kerk. Gestileerde 3D-projectie, geen fotorealistische simulatie. Onder bruggen en nabij gebouwen alleen fictieve training; echte vluchtregels en VLOS blijven leidend.
